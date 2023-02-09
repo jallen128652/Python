@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DiscretionarySpending", "DiscretionarySpending\DiscretionarySpending.pyproj", "{88593FEA-8B4E-470D-A99A-9CE0B600508B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88593FEA-8B4E-470D-A99A-9CE0B600508B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88593FEA-8B4E-470D-A99A-9CE0B600508B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1490E5C-9DA1-42D2-B3B2-D299196776D5}
+	EndGlobalSection
+EndGlobal
