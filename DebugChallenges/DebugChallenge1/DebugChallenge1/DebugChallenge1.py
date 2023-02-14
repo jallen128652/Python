@@ -1,4 +1,7 @@
-#The following program accepts the price of an
+#Program: DebugChallenge1
+#Course: ITSE 1302 7P1
+#Author: James Allen
+#Description: The following program accepts the price of an
 #item as input, and then calculates the total price after adding
 #city and state sales tax.  The state tax rate is 6%
 #and the city tax rate is 2%.  There are five bugs/errors in this program.
