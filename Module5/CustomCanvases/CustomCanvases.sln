@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CustomCanvases", "CustomCanvases\CustomCanvases.pyproj", "{FD5934BB-9E0E-461F-A097-CBA2458CECBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5934BB-9E0E-461F-A097-CBA2458CECBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5934BB-9E0E-461F-A097-CBA2458CECBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97800D37-50F1-45BF-91EC-EE284AA9C85D}
+	EndGlobalSection
+EndGlobal
