@@ -4,16 +4,16 @@
 # Description: This program calculates the price and totals of items
 print("Welcome to Dollar Family!")
 subTotal = 0
-while True:  
-    itemPrice = float(input("Enter item price: "))    
-    if itemPrice == 0:
-        break
+itemPrice = float(input("Enter item price: "))
+while itemPrice != 0:     
     quantity = int(input("How many of item: "))
     firstTotal = itemPrice * quantity
     subTotal = firstTotal + subTotal
-print("Subtotal: ${:.2f}".format(subTotal))
-tax = subTotal * 0.0825
-print("Tax: ${:.2f}".format(tax))
-total = subTotal + tax
-print("Total ${:.2f}".format(total))
+    itemPrice = float(input("Enter item price: "))    
+else:
+    print("Subtotal: ${:.2f}".format(subTotal))
+    tax = subTotal * 0.0825
+    print("Tax: ${:.2f}".format(tax))
+    total = subTotal + tax
+    print("Total ${:.2f}".format(total))
 
